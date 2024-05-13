@@ -1,6 +1,6 @@
 ## Contributing
-[fork]: https://github.com/github/copilot-codespaces-demo/codes/fork
-[pr]: https://github.com/github/copilot-codespaces-demo/compare
+[fork]: https://github.com/continuous-copilot/copilot-codespaces-demo/codes/fork
+[pr]: https://github.com/continuous-copilot/copilot-codespaces-demo/compare
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
