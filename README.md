@@ -22,6 +22,9 @@ During the the GitHub Copilot+Codespaces Playground Demo, you are in charge! You
 
 ![screenshot3](media/screenshot3.png)
 
+## Codespace configuration
+
+[./devcontainer configuration](./devcontainer)
 
 ## FAQ
 <details>
