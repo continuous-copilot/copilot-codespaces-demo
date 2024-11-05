@@ -24,7 +24,7 @@ During the the GitHub Copilot+Codespaces Playground Demo, you are in charge! You
 
 ## Codespace configuration
 
-[./devcontainer configuration](./devcontainer)
+[devcontainer.json](./devcontainer/devcontainer.json)
 
 ## FAQ
 <details>
